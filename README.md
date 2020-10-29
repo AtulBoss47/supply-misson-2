@@ -1,4 +1,4 @@
 # Project 23 - Supply Mission: Part 2
-Made by Rishi Venkatesh
+Made by atulkrishna22
 
-Link: https://ethyx.github.io/PRO-C23/
+Link: https://atulkrishna22.github.io/PRO-C23/
